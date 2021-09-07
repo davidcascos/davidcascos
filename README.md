@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working at Indra as a Java Developer
-- 🌱 I'm currently studying IT Engineering at the Universitat de Lleida
+- 👨🏻‍💻 I’m currently working at Indra as a Java Developer
+- 👨🏻‍🎓 Bachelor's degree in IT Engineering at the Universitat de Lleida
 - 📫 How to reach me: davidcascosgimeno@gmail.com
 
 <table style="width:100%; border: none;" align="center">
