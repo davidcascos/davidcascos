@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 👨🏻‍💻 I’m currently working at Indra as a Java Developer
+- 👨🏻‍💻 I’m currently working at Hiberus as a Full Stack Developer
 - 👨🏻‍🎓 Bachelor's degree in IT Engineering at the Universitat de Lleida
 - 📫 How to reach me: davidcascosgimeno@gmail.com
 
